@@ -1,0 +1,181 @@
+Genres,MovieID,Title,Rating
+Western,3607,One Little Indian (1973),5.0
+Western,3030,Yojimbo (1961),4.404651162790698
+Western,1304,Butch Cassidy and the Sundance Kid (1969),4.215644820295983
+Western,1283,High Noon (1952),4.1786600496277915
+Western,1201,"Good, The Bad and The Ugly, The (1966)",4.133819951338199
+Western,1266,Unforgiven (1992),4.0902708124373115
+Western,599,"Wild Bunch, The (1969)",4.087121212121212
+Western,3365,"Searchers, The (1956)",4.085714285714285
+Western,3671,Blazing Saddles (1974),4.047363717605005
+Western,3037,Little Big Man (1970),4.04399323181049
+War,527,Schindler's List (1993),4.510416666666667
+War,1178,Paths of Glory (1957),4.473913043478261
+War,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.4498902706656915
+War,912,Casablanca (1942),4.412822049131217
+War,1204,Lawrence of Arabia (1962),4.401925391095066
+War,1250,"Bridge on the River Kwai, The (1957)",4.386993603411514
+War,1262,"Great Escape, The (1963)",4.376436781609195
+War,3134,"Grand Illusion (Grande illusion, La) (1937)",4.33939393939394
+War,2028,Saving Private Ryan (1998),4.337353938937053
+War,1233,"Boat, The (Das Boot) (1981)",4.302697302697303
+Thriller,745,"Close Shave, A (1995)",4.52054794520548
+Thriller,50,"Usual Suspects, The (1995)",4.517106001121705
+Thriller,904,Rear Window (1954),4.476190476190476
+Thriller,1212,"Third Man, The (1949)",4.452083333333333
+Thriller,2762,"Sixth Sense, The (1999)",4.406262708418057
+Thriller,908,North by Northwest (1959),4.38403041825095
+Thriller,593,"Silence of the Lambs, The (1991)",4.3518231186966645
+Thriller,1252,Chinatown (1974),4.339240506329114
+Thriller,1267,"Manchurian Candidate, The (1962)",4.333333333333333
+Thriller,2571,"Matrix, The (1999)",4.315830115830116
+Sci-Fi,260,Star Wars: Episode IV - A New Hope (1977),4.453694416583082
+Sci-Fi,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.4498902706656915
+Sci-Fi,2571,"Matrix, The (1999)",4.315830115830116
+Sci-Fi,1196,Star Wars: Episode V - The Empire Strikes Back (1980),4.292976588628763
+Sci-Fi,541,Blade Runner (1982),4.273333333333333
+Sci-Fi,1214,Alien (1979),4.159584980237154
+Sci-Fi,1240,"Terminator, The (1984)",4.152049571020019
+Sci-Fi,1253,"Day the Earth Stood Still, The (1951)",4.141323792486583
+Sci-Fi,1200,Aliens (1986),4.125824175824176
+Sci-Fi,1199,Brazil (1985),4.097480832420591
+Romance,3888,Skipped Parts (2000),4.5
+Romance,912,Casablanca (1942),4.412822049131217
+Romance,3307,City Lights (1931),4.387453874538745
+Romance,1197,"Princess Bride, The (1987)",4.3037100949094045
+Romance,898,"Philadelphia Story, The (1940)",4.3006872852233675
+Romance,930,Notorious (1946),4.29438202247191
+Romance,1172,Cinema Paradiso (1988),4.287804878048781
+Romance,899,Singin' in the Rain (1952),4.2836218375499335
+Romance,969,"African Queen, The (1951)",4.251655629139073
+Romance,1247,"Graduate, The (1967)",4.245836637589215
+Mystery,578,"Hour of the Pig, The (1993)",4.5
+Mystery,904,Rear Window (1954),4.476190476190476
+Mystery,1212,"Third Man, The (1949)",4.452083333333333
+Mystery,913,"Maltese Falcon, The (1941)",4.395973154362416
+Mystery,1252,Chinatown (1974),4.339240506329114
+Mystery,1284,"Big Sleep, The (1946)",4.312384473197782
+Mystery,903,Vertigo (1958),4.27292817679558
+Mystery,3730,"Conversation, The (1974)",4.249448123620309
+Mystery,950,"Thin Man, The (1934)",4.239726027397261
+Mystery,3801,Anatomy of a Murder (1959),4.231155778894473
+Musical,899,Singin' in the Rain (1952),4.2836218375499335
+Musical,919,"Wizard of Oz, The (1939)",4.247962747380675
+Musical,1288,This Is Spinal Tap (1984),4.179785330948121
+Musical,1066,Shall We Dance? (1937),4.1657142857142855
+Musical,914,My Fair Lady (1964),4.154088050314465
+Musical,945,Top Hat (1935),4.147410358565737
+Musical,2300,"Producers, The (1968)",4.144376899696049
+Musical,1947,West Side Story (1961),4.057818659658344
+Musical,2565,"King and I, The (1956)",3.954301075268817
+Musical,3606,On the Town (1949),3.940828402366864
+Horror,3280,"Baby, The (1973)",5.0
+Horror,1278,Young Frankenstein (1974),4.250628667225482
+Horror,1219,Psycho (1960),4.218527315914489
+Horror,1214,Alien (1979),4.159584980237154
+Horror,1258,"Shining, The (1980)",4.104875804967802
+Horror,1387,Jaws (1975),4.089569829110195
+Horror,3305,Bluebeard (1944),4.0
+Horror,1348,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",3.991596638655462
+Horror,2648,Frankenstein (1931),3.9753694581280787
+Horror,1997,"Exorcist, The (1973)",3.9559322033898305
+Film-Noir,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.491489361702127
+Film-Noir,3435,Double Indemnity (1944),4.415607985480944
+Film-Noir,913,"Maltese Falcon, The (1941)",4.395973154362416
+Film-Noir,1252,Chinatown (1974),4.339240506329114
+Film-Noir,1267,"Manchurian Candidate, The (1962)",4.333333333333333
+Film-Noir,1284,"Big Sleep, The (1946)",4.312384473197782
+Film-Noir,2186,Strangers on a Train (1951),4.304979253112033
+Film-Noir,1260,M (1931),4.3019480519480515
+Film-Noir,930,Notorious (1946),4.29438202247191
+Film-Noir,541,Blade Runner (1982),4.273333333333333
+Fantasy,260,Star Wars: Episode IV - A New Hope (1977),4.453694416583082
+Fantasy,792,"Hungarian Fairy Tale, A (1987)",4.0
+Fantasy,1097,E.T. the Extra-Terrestrial (1982),3.9651828999559275
+Fantasy,247,Heavenly Creatures (1994),3.8658280922431865
+Fantasy,1073,Willy Wonka and the Chocolate Factory (1971),3.8613861386138613
+Fantasy,2797,Big (1988),3.8558014755197854
+Fantasy,2138,Watership Down (1978),3.8426229508196723
+Fantasy,2872,Excalibur (1981),3.81266846361186
+Fantasy,3920,"Faraway, So Close (In Weiter Ferne, So Nah!) (1993)",3.712121212121212
+Fantasy,1019,"20,000 Leagues Under the Sea (1954)",3.7026086956521738
+Drama,989,Schlafes Bruder (Brother of Sleep) (1995),5.0
+Drama,3382,Song of Freedom (1936),5.0
+Drama,3607,One Little Indian (1973),5.0
+Drama,3245,I Am Cuba (Soy Cuba/Ya Kuba) (1964),4.8
+Drama,53,Lamerica (1994),4.75
+Drama,2503,"Apple, The (Sib) (1998)",4.666666666666667
+Drama,2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.560509554140127
+Drama,318,"Shawshank Redemption, The (1994)",4.554557700942973
+Drama,858,"Godfather, The (1972)",4.524966261808367
+Drama,527,Schindler's List (1993),4.510416666666667
+Documentary,787,"Gate of Heavenly Peace, The (1995)",5.0
+Documentary,3881,Bittersweet Motel (2000),5.0
+Documentary,3338,For All Mankind (1989),4.444444444444445
+Documentary,2930,Return with Honor (1998),4.4
+Documentary,128,Jupiter's Wife (1994),4.333333333333333
+Documentary,1147,When We Were Kings (1996),4.32129963898917
+Documentary,3679,"Decline of Western Civilization, The (1981)",4.274193548387097
+Documentary,363,"Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder) (1993)",4.258064516129032
+Documentary,1189,"Thin Blue Line, The (1988)",4.25278810408922
+Documentary,2859,Stop Making Sense (1984),4.2343096234309625
+Crime,3656,Lured (1947),5.0
+Crime,858,"Godfather, The (1972)",4.524966261808367
+Crime,50,"Usual Suspects, The (1995)",4.517106001121705
+Crime,3517,"Bells, The (1926)",4.5
+Crime,3435,Double Indemnity (1944),4.415607985480944
+Crime,1221,"Godfather: Part II, The (1974)",4.357565011820331
+Crime,1234,"Sting, The (1973)",4.320305052430887
+Crime,1260,M (1931),4.3019480519480515
+Crime,910,Some Like It Hot (1959),4.300480769230769
+Crime,296,Pulp Fiction (1994),4.278212805158913
+Comedy,1830,Follow the Bitch (1998),5.0
+Comedy,3233,Smashing Time (1967),5.0
+Comedy,3607,One Little Indian (1973),5.0
+Comedy,745,"Close Shave, A (1995)",4.52054794520548
+Comedy,1148,"Wrong Trousers, The (1993)",4.507936507936508
+Comedy,3030,Yojimbo (1961),4.404651162790698
+Comedy,3307,City Lights (1931),4.387453874538745
+Comedy,3022,"General, The (1927)",4.368932038834951
+Comedy,1223,"Grand Day Out, A (1992)",4.361522198731501
+Comedy,3429,Creature Comforts (1990),4.335766423357664
+Children's,919,"Wizard of Oz, The (1939)",4.247962747380675
+Children's,3114,Toy Story 2 (1999),4.218927444794953
+Children's,1,Toy Story (1995),4.146846413095811
+Children's,2761,"Iron Giant, The (1999)",4.0474777448071215
+Children's,1023,Winnie the Pooh and the Blustery Day (1968),3.986425339366516
+Children's,1097,E.T. the Extra-Terrestrial (1982),3.9651828999559275
+Children's,1282,Fantasia (1940),3.904559915164369
+Children's,1028,Mary Poppins (1964),3.894164193867458
+Children's,34,Babe (1995),3.8914905768132497
+Children's,595,Beauty and the Beast (1991),3.8858490566037736
+Animation,745,"Close Shave, A (1995)",4.52054794520548
+Animation,1148,"Wrong Trousers, The (1993)",4.507936507936508
+Animation,720,Wallace & Gromit: The Best of Aardman Animation (1996),4.426940639269406
+Animation,1223,"Grand Day Out, A (1992)",4.361522198731501
+Animation,3429,Creature Comforts (1990),4.335766423357664
+Animation,3114,Toy Story 2 (1999),4.218927444794953
+Animation,3000,"Princess Mononoke, The (Mononoke Hime) (1997)",4.147826086956521
+Animation,1,Toy Story (1995),4.146846413095811
+Animation,741,Ghost in the Shell (Kokaku kidotai) (1995),4.089171974522293
+Animation,2761,"Iron Giant, The (1999)",4.0474777448071215
+Adventure,3172,Ulysses (Ulisse) (1954),5.0
+Adventure,2905,Sanjuro (1962),4.608695652173913
+Adventure,1198,Raiders of the Lost Ark (1981),4.477724741447892
+Adventure,260,Star Wars: Episode IV - A New Hope (1977),4.453694416583082
+Adventure,1204,Lawrence of Arabia (1962),4.401925391095066
+Adventure,1262,"Great Escape, The (1963)",4.376436781609195
+Adventure,3470,Dersu Uzala (1974),4.326086956521739
+Adventure,1197,"Princess Bride, The (1987)",4.3037100949094045
+Adventure,1196,Star Wars: Episode V - The Empire Strikes Back (1980),4.292976588628763
+Adventure,1254,"Treasure of the Sierra Madre, The (1948)",4.289183222958058
+Action,2905,Sanjuro (1962),4.608695652173913
+Action,2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.560509554140127
+Action,858,"Godfather, The (1972)",4.524966261808367
+Action,1198,Raiders of the Lost Ark (1981),4.477724741447892
+Action,260,Star Wars: Episode IV - A New Hope (1977),4.453694416583082
+Action,1221,"Godfather: Part II, The (1974)",4.357565011820331
+Action,2028,Saving Private Ryan (1998),4.337353938937053
+Action,2571,"Matrix, The (1999)",4.315830115830116
+Action,1197,"Princess Bride, The (1987)",4.3037100949094045
+Action,1233,"Boat, The (Das Boot) (1981)",4.302697302697303
